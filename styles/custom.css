@@ -1,0 +1,10 @@
+.ccpDiv { 
+    width: 320px; 
+    height: 465px; 
+    min-width: 220px; 
+    min-height: 400px; 
+}
+
+.row {
+    flex-wrap: nowrap;
+}
